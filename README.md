@@ -5,7 +5,6 @@
 **Building full-stack web apps and ML models — TypeScript · Python · Next.js · Supabase**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shavin-fernando-d3)
-[![EventZ](https://img.shields.io/badge/EventZ_Live_Demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://event-z-psi.vercel.app)
 [![Profile Views](https://komarev.com/ghpvc/?username=shavd3&color=4f46e5&style=flat-square&label=Profile+Views)](https://github.com/shavd3)
 
 </div>
