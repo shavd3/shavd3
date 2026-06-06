@@ -4,9 +4,9 @@
 
 **Building full-stack web apps and ML models — TypeScript · Python · Next.js · Supabase**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shavin-fernando-d3)
-[![EventZ](https://img.shields.io/badge/EventZ-Live_Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://event-z-psi.vercel.app)
-[![Profile Views](https://komarev.com/ghpvc/?username=shavd3&color=4f46e5&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/shavd3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shavin-fernando-d3)
+[![EventZ](https://img.shields.io/badge/EventZ_Live_Demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://event-z-psi.vercel.app)
+[![Profile Views](https://komarev.com/ghpvc/?username=shavd3&color=4f46e5&style=flat-square&label=Profile+Views)](https://github.com/shavd3)
 
 </div>
 
@@ -16,16 +16,7 @@
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,py,nextjs,react,tailwind,supabase,tensorflow,sklearn,postgres,git&perline=5" />
 
 </div>
 
