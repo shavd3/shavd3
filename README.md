@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=200&section=header&text=Shavin%20Fernando&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20ML%20Developer&descSize=20&descAlignY=58&descColor=e0e7ff" width="100%" />
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Shavin+Fernando+%F0%9F%91%8B;Full-Stack+%26+ML+Developer;TypeScript+%C2%B7+Python+%C2%B7+Next.js+%C2%B7+Supabase)
 
 <div align="center">
-
-**Building full-stack web apps and ML models — TypeScript · Python · Next.js · Supabase**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shavin-fernando-d3)
 [![Profile Views](https://komarev.com/ghpvc/?username=shavd3&color=4f46e5&style=flat-square&label=Profile+Views)](https://github.com/shavd3)
@@ -25,9 +23,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shavd3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f46e5&icon_color=06b6d4&text_color=e0e7ff" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shavd3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f46e5&text_color=e0e7ff" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=shavd3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shavd3&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
@@ -37,10 +35,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shavd3&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=06b6d4&line=4f46e5&point=e0e7ff" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shavd3&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:4f46e5&height=100&section=footer" width="100%" />
